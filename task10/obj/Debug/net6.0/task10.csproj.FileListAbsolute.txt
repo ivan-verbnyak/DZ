@@ -1,0 +1,15 @@
+/home/ivan/Документы/DZ/task10/obj/Debug/net6.0/task10.csproj.AssemblyReference.cache
+/home/ivan/Документы/DZ/task10/obj/Debug/net6.0/task10.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivan/Документы/DZ/task10/obj/Debug/net6.0/task10.AssemblyInfoInputs.cache
+/home/ivan/Документы/DZ/task10/obj/Debug/net6.0/task10.AssemblyInfo.cs
+/home/ivan/Документы/DZ/task10/obj/Debug/net6.0/task10.csproj.CoreCompileInputs.cache
+/home/ivan/Документы/DZ/task10/bin/Debug/net6.0/task10
+/home/ivan/Документы/DZ/task10/bin/Debug/net6.0/task10.deps.json
+/home/ivan/Документы/DZ/task10/bin/Debug/net6.0/task10.runtimeconfig.json
+/home/ivan/Документы/DZ/task10/bin/Debug/net6.0/task10.dll
+/home/ivan/Документы/DZ/task10/bin/Debug/net6.0/ref/task10.dll
+/home/ivan/Документы/DZ/task10/bin/Debug/net6.0/task10.pdb
+/home/ivan/Документы/DZ/task10/obj/Debug/net6.0/task10.dll
+/home/ivan/Документы/DZ/task10/obj/Debug/net6.0/ref/task10.dll
+/home/ivan/Документы/DZ/task10/obj/Debug/net6.0/task10.pdb
+/home/ivan/Документы/DZ/task10/obj/Debug/net6.0/task10.genruntimeconfig.cache
