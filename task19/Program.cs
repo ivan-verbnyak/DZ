@@ -13,4 +13,3 @@ else
 {
     System.Console.WriteLine("the given number is not a palindrome");
 }
-//System.Console.WriteLine(x);
