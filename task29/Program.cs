@@ -7,7 +7,7 @@ int[] array = new int[8];
 
 for (int i = 0; i < array.Length; i++)
 {
-    array[i] = rand.Next(1, 10);
-    Console.Write(array[i] + " " );
+    array[i] = rand.Next(int.MinValue, int.MaxValue);
+    Console.Write(array[i] + ", " );
 }
 System.Console.WriteLine();
