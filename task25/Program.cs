@@ -9,6 +9,7 @@
 System.Console.Write("Введите число: ");
 double Number = Convert.ToInt32(Console.ReadLine());
 System.Console.Write("Введите степень возведения: ");
+
 double Degree = Convert.ToInt32(Console.ReadLine());
 
 double Result = Math.Pow(Number, Degree);
